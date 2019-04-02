@@ -21,3 +21,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
+2019, Jaap van Rijn. All rights reserved.
