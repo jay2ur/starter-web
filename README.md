@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website for showing how to use Git and GitHub together. Adding a line for rebasing example, moore changes.:x
+This is a simple website for showing how to use Git and GitHub together. Updating for emergency fix after stashing.
 
 
 ## Introduction
