@@ -3,6 +3,9 @@
 This is a simple website for showing how to use Git and GitHub together. Updating for emergency fix after stashing.
 And use it for test-branch
 
+## Updates
+
+Updates from Dev1
 
 ## Introduction
 
